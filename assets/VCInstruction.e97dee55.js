@@ -1,0 +1,1 @@
+import{V as t}from"./VcInstructions.363507eb.js";import{_ as n}from"./VAvatar.77a54779.js";import{Y as r,Z as s,a2 as c}from"./index.2a2e2f5e.js";import"./VCard.6d2d083a.js";import"./VRow.c047cd49.js";const e={components:{VcInstructions:t}};function p(a,i,m,_,u,f){const o=r("VcInstructions");return s(),c(o,{Showstart:!0})}const x=n(e,[["render",p]]);export{x as default};
