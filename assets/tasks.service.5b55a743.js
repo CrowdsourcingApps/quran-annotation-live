@@ -1,0 +1,1 @@
+import{aB as e}from"./index.c3f94217.js";const t="tasks/";class a{get_validate_correctness(){return e.get(t+"validate_correctness/")}save_validate_correctness_answers(r){return e.post(t+"validate_correctness/answers",r).then(s=>(console.log(s),s))}get_today_vc_contribution(){return e.get(t+"validate_correctness/today_contribution")}}const o=new a;export{o as T};
